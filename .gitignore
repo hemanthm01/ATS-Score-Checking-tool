@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore .env files with sensitive information like API keys
+.env
+
+# Ignore Python compiled files
+*.pyc
+__pycache__/
+
+# Ignore directories created by IDEs
+.vscode/
+.idea/
+
+# Ignore any virtualenv directories
+venv/
